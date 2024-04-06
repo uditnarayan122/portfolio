@@ -29,7 +29,7 @@ window.onscroll= () => {
 };
 // Typing
 var typed=new Typed('.text',{
-    strings:["Web Developer","Python Developer","ML Engineer"],
+    strings:["Software Engineer","Web Developer","App Developer","Python Developer","ML Engineer"],
     typeSpeed:25,
     backSpeed:25,
     backDelay:1500,
